@@ -10,5 +10,5 @@ When a target is in the vehicle's FoV, it is coloured as blue.
 The targets and vehicle's states at any time is shown the middle column at the top and bottom, respectively.
 
 <p align="center">
-  <img src="img/gif_image.gif" width=140 height=195>
+  <img src="img/myimage.gif" width=140 height=195>
 </p>
