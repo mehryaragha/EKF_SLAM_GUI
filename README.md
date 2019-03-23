@@ -5,9 +5,13 @@ This is a GUI for the extended Kalman filter (EKF) simultaneous localisation and
 Simply run ```EKF_SLAM_Known_Correspondences.m```:
 - Up arrow: vehicle acceleration
 - Left/right arrows: counter clock-wise and clock-wise angular rotation of the vehicle 
-Once a target is detected, it is localised over the map on the right hand side.
+
+## Description
+Once a target (landmark) is detected, it is localised over the map on the right hand side.
 When a target is in the vehicle's FoV, it is coloured as blue.
 The targets and vehicle's states at any time is shown the middle column at the top and bottom, respectively.
+
+The number of landmarks, angular and radial speed, detection error model and covariance matrices can be adjusted as hyper-parameters within the code.
 
 <p align="center">
   <img src="img/myimage.gif" width=800 >
