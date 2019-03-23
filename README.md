@@ -7,7 +7,7 @@ Simply run ```EKF_SLAM_Known_Correspondences.m```:
 - Left/right arrows: counterclockwise and clockwise angular rotation of the vehicle 
 
 ## Description
-Once a target (landmark) is detected, it is localised over the map on the right hand side.
+Once a target (landmark) is detected, it is localised over the map on the right hand side. At the same time the vehicle's location is updated using the EKF SLAM framework.
 When a target is in the vehicle's FoV, it is coloured as blue.
 The targets and vehicle's states at any time is shown the middle column at the top and bottom, respectively.
 
