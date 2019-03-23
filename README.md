@@ -14,5 +14,5 @@ The targets and vehicle's states at any time is shown the middle column at the t
 The number of landmarks, angular and radial speed, detection error model and covariance matrices can be adjusted as hyper-parameters within the code.
 
 <p align="center">
-  <img src="img/myimage.gif" width=800 >
+  <img src="img/myimage.gif" width=1000 >
 </p>
