@@ -4,7 +4,7 @@ This is a GUI for the extended Kalman filter (EKF) simultaneous localisation and
 ## Usage
 Simply run ```EKF_SLAM_Known_Correspondences.m```:
 - Up arrow: vehicle acceleration
-- Left/right arrows: counter clock-wise and clock-wise angular rotation of the vehicle 
+- Left/right arrows: counterclockwise and clockwise angular rotation of the vehicle 
 
 ## Description
 Once a target (landmark) is detected, it is localised over the map on the right hand side.
