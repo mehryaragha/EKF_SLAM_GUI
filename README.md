@@ -11,8 +11,11 @@ Once a target (landmark) is detected, it is localised over the map on the right 
 When a target is in the vehicle's FoV, it is coloured as blue.
 The targets and vehicle's states at any time is shown the middle column at the top and bottom, respectively.
 
-The number of landmarks, angular and radial speed, detection error model and covariance matrices can be adjusted as hyper-parameters within the code.
-
+The uncertainty of the landmarks' locations and vehicle's localisation gradually decreases over time. 
 <p align="center">
   <img src="img/myimage.gif" width=1000 >
 </p>
+
+
+The number of landmarks, angular and radial speed, detection error model and covariance matrices can be adjusted as hyper-parameters within the code.
+
