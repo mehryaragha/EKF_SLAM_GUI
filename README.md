@@ -1,5 +1,5 @@
 # EKF SLAM
-This is a GUI for the extended Kalman filter (EKF) simultaneous localisation and mapping (SLAM), with known associations explained in page 314 of the Probabilistic Robotics book by Sebastian Thrun, Wolfram Burgard and Dieter Fox.
+This is a GUI for the extended Kalman filter (EKF) simultaneous localisation and mapping (SLAM), with known associations explained in: ```page 314 of the Probabilistic Robotics book by Sebastian Thrun, Wolfram Burgard and Dieter Fox```.
 
 ## Usage
 Simply run ```EKF_SLAM_Known_Correspondences.m```:
